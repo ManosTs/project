@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="redblacktree">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../part-II-A/src/apackage/redblacktree" />
+    </SOURCES>
+  </library>
+</component>
